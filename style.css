@@ -47,6 +47,22 @@ body{
     border-radius: 7px;
     font-weight: 700;
 }
-.abc{
+.container-div{
     display: flex;
+    background-image: linear-gradient(rgb(25, 86, 199), rgb(206, 50, 172));
+
+}
+.container-div1{
+    width: 40%;
+    margin-left: 10%;
+}
+#hard-working{
+    color:rgb(25, 86, 199);
+    background-image: linear-gradient(#0000ff81,orange);
+    text-align: center;
+    font-weight: 700;
+    font-size: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding: 15px;
+    margin: 0;
 }
