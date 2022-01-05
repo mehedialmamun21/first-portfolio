@@ -1,4 +1,20 @@
-h1{
-    color: brown;
-    background: cornflowerblue;
+body{
+    font-family: 'Poppins', sans-serif;
+}
+.welcome-section{
+    text-align: center;
+    
+}
+#contact-button{
+    text-decoration: none;
+    background: linear-gradient(#fbff00f8, rgb(0, 162, 255));
+    padding: 1% 2%;
+    color: white;
+    font-size: 20px;
+    font-weight: 700;
+    width: 100%;
+    border-radius: 15px;
+}
+#welcome-text{
+    font-size: 40px;
 }
